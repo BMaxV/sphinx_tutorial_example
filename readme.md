@@ -1,4 +1,4 @@
-make new copies the the project and creates a "docs folder"
+make new copies the clean project and creates a "docs" folder
 
 use
 
